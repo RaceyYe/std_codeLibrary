@@ -1,0 +1,9 @@
+name: std_env
+channels: 
+  - conda-forge
+  - defaults 
+  - R
+dependencies:
+  - python =3.13
+  - r-base
+  - r-tidyverse
