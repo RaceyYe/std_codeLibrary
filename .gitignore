@@ -1,0 +1,27 @@
+Data/
+
+# 虚拟环境目录
+venv/
+.env/
+env/
+
+# Python 缓存和字节码文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 安装包和分发文件
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE 和编辑器配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
